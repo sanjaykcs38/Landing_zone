@@ -4,6 +4,10 @@ rgs = {
     name     = "RG_Env"
     location = "centralindia"
   }
+   rg_101 = {
+    name     = "RG_Env"
+    location = "centralindia"
+  }
    }
 vnets = {
   vnet1 = {
